@@ -1,0 +1,36 @@
+# Ambientes virtuais
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Credenciais (vão como env vars no Railway)
+.env
+.env.example
+.env.local.example
+Arquivo_Json_AutomacaoPlanilhaBruno.json
+
+# Scripts antigos (versões anteriores)
+2025/
+projeto_vscode_main_*.py
+Refatoracao/
+refatoracao.ts
+
+# Guias e docs antigos
+DEPLOY_OPCOES.md
+GUIDE_DEPLOY_GOOGLE_CLOUD.md
+GUIDE_RAILWAY.md
+RAILWAY_PASSO_A_PASSO.md
+README.md
+README_RAILWAY.md
+
+# Outros
+Dockerfile
+Procfile
+package.json
+tsconfig.json
+erro.json
+.codex
+run.sh
+setup_linux.sh
+setup_railway.sh
