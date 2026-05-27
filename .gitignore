@@ -10,6 +10,9 @@ __pycache__/
 .env.local.example
 Arquivo_Json_AutomacaoPlanilhaBruno.json
 
+# Arquivos com credenciais sensíveis
+railway_vars.md
+
 # Scripts antigos (versões anteriores)
 2025/
 projeto_vscode_main_*.py
@@ -34,3 +37,7 @@ erro.json
 run.sh
 setup_linux.sh
 setup_railway.sh
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
